@@ -158,13 +158,8 @@ Flipkart-Automation
 
 │  
 
-├── base  
-
-│   └── BaseTest.java  
-
-│  
-
-├── pages  
+├── flipkartautomation
+│   └── BaseTest.java    
 
 │   ├── HomePage.java  
 
@@ -172,19 +167,9 @@ Flipkart-Automation
 
 │   └── ProductPage.java  
 
-│  
+│   └── TestRun.java    
 
-├── tests  
-
-│   └── TestRun.java  
-
-│  
-
-├── utils  
-
-│   └── ScreenshotUtil.java  
-
-│  
+│   └── ScreenshotUtil.java   
 
 └── ScreenShots
 
@@ -200,8 +185,8 @@ Flipkart-Automation
 
 
 
-git clone https://github.com/Adikeshava-Reddy/flipkart-automation
-
+git clone 
+https://github.com/Adikeshava-Reddy/flipkart-Automation-Selenium.git
 \---
 
 
